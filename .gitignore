@@ -1,0 +1,10 @@
+.DS_Store
+node_modules/
+*.log
+.env
+.vscode/
+*.class
+build/
+target/
+secrets.json
+logs/
