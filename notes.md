@@ -1,0 +1,3 @@
+- learned how to move around my computer via the terminal
+- learned how to make a branch
+- learned to merge while keeping consistent versions
